@@ -1,0 +1,51 @@
+C:\Users\User\source\repos\Photo_Manager\Photo_Manager\bin\Debug\net6.0-windows\Image_Editor.exe
+C:\Users\User\source\repos\Photo_Manager\Photo_Manager\bin\Debug\net6.0-windows\Image_Editor.deps.json
+C:\Users\User\source\repos\Photo_Manager\Photo_Manager\bin\Debug\net6.0-windows\Image_Editor.runtimeconfig.json
+C:\Users\User\source\repos\Photo_Manager\Photo_Manager\bin\Debug\net6.0-windows\Image_Editor.dll
+C:\Users\User\source\repos\Photo_Manager\Photo_Manager\bin\Debug\net6.0-windows\Image_Editor.pdb
+C:\Users\User\source\repos\Photo_Manager\Photo_Manager\obj\Debug\net6.0-windows\Photo_Manager.Form1.resources
+C:\Users\User\source\repos\Photo_Manager\Photo_Manager\obj\Debug\net6.0-windows\Image_Editor.Properties.Resources.resources
+C:\Users\User\source\repos\Photo_Manager\Photo_Manager\obj\Debug\net6.0-windows\Image_Editor.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Photo_Manager\Photo_Manager\obj\Debug\net6.0-windows\Image_Editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Photo_Manager\Photo_Manager\obj\Debug\net6.0-windows\Image_Editor.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Photo_Manager\Photo_Manager\obj\Debug\net6.0-windows\Image_Editor.AssemblyInfo.cs
+C:\Users\User\source\repos\Photo_Manager\Photo_Manager\obj\Debug\net6.0-windows\Image_Editor.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Photo_Manager\Photo_Manager\obj\Debug\net6.0-windows\Image_Editor.dll
+C:\Users\User\source\repos\Photo_Manager\Photo_Manager\obj\Debug\net6.0-windows\refint\Image_Editor.dll
+C:\Users\User\source\repos\Photo_Manager\Photo_Manager\obj\Debug\net6.0-windows\Image_Editor.pdb
+C:\Users\User\source\repos\Photo_Manager\Photo_Manager\obj\Debug\net6.0-windows\Image_Editor.genruntimeconfig.cache
+C:\Users\User\source\repos\Photo_Manager\Photo_Manager\obj\Debug\net6.0-windows\ref\Image_Editor.dll
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Photo_Manager\Photo_Manager\bin\Debug\net6.0-windows\Image_Editor.exe
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Photo_Manager\Photo_Manager\bin\Debug\net6.0-windows\Image_Editor.deps.json
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Photo_Manager\Photo_Manager\bin\Debug\net6.0-windows\Image_Editor.runtimeconfig.json
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Photo_Manager\Photo_Manager\bin\Debug\net6.0-windows\Image_Editor.dll
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Photo_Manager\Photo_Manager\bin\Debug\net6.0-windows\Image_Editor.pdb
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Photo_Manager\Photo_Manager\obj\Debug\net6.0-windows\Photo_Manager.Form1.resources
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Photo_Manager\Photo_Manager\obj\Debug\net6.0-windows\Image_Editor.Properties.Resources.resources
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Photo_Manager\Photo_Manager\obj\Debug\net6.0-windows\Image_Editor.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Photo_Manager\Photo_Manager\obj\Debug\net6.0-windows\Image_Editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Photo_Manager\Photo_Manager\obj\Debug\net6.0-windows\Image_Editor.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Photo_Manager\Photo_Manager\obj\Debug\net6.0-windows\Image_Editor.AssemblyInfo.cs
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Photo_Manager\Photo_Manager\obj\Debug\net6.0-windows\Image_Editor.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Photo_Manager\Photo_Manager\obj\Debug\net6.0-windows\Image_Editor.dll
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Photo_Manager\Photo_Manager\obj\Debug\net6.0-windows\refint\Image_Editor.dll
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Photo_Manager\Photo_Manager\obj\Debug\net6.0-windows\Image_Editor.pdb
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Photo_Manager\Photo_Manager\obj\Debug\net6.0-windows\Image_Editor.genruntimeconfig.cache
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Photo_Manager\Photo_Manager\obj\Debug\net6.0-windows\ref\Image_Editor.dll
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Image_Editor\Photo_Manager\bin\Debug\net6.0-windows\Image_Editor.exe
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Image_Editor\Photo_Manager\bin\Debug\net6.0-windows\Image_Editor.deps.json
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Image_Editor\Photo_Manager\bin\Debug\net6.0-windows\Image_Editor.runtimeconfig.json
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Image_Editor\Photo_Manager\bin\Debug\net6.0-windows\Image_Editor.dll
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Image_Editor\Photo_Manager\bin\Debug\net6.0-windows\Image_Editor.pdb
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Image_Editor\Photo_Manager\obj\Debug\net6.0-windows\Photo_Manager.Form1.resources
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Image_Editor\Photo_Manager\obj\Debug\net6.0-windows\Image_Editor.Properties.Resources.resources
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Image_Editor\Photo_Manager\obj\Debug\net6.0-windows\Image_Editor.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Image_Editor\Photo_Manager\obj\Debug\net6.0-windows\Image_Editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Image_Editor\Photo_Manager\obj\Debug\net6.0-windows\Image_Editor.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Image_Editor\Photo_Manager\obj\Debug\net6.0-windows\Image_Editor.AssemblyInfo.cs
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Image_Editor\Photo_Manager\obj\Debug\net6.0-windows\Image_Editor.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Image_Editor\Photo_Manager\obj\Debug\net6.0-windows\Image_Editor.dll
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Image_Editor\Photo_Manager\obj\Debug\net6.0-windows\refint\Image_Editor.dll
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Image_Editor\Photo_Manager\obj\Debug\net6.0-windows\Image_Editor.pdb
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Image_Editor\Photo_Manager\obj\Debug\net6.0-windows\Image_Editor.genruntimeconfig.cache
+C:\Users\User\OneDrive\Документы\Универ\Software Engineering\C#\Image_Editor\Photo_Manager\obj\Debug\net6.0-windows\ref\Image_Editor.dll
